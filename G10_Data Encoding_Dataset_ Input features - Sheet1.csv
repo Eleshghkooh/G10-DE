@@ -1,0 +1,11 @@
+Area,Population Density,Land Use,Amenity Locations,Transportation Networks,Road Network,Travel Time Data,Zoning Regulations,Urban Green Space,Median Income,Employment Rate
+Area 1,"10,000",Residential,"(34.9285, 138.6007)",8,5,10,Residential Zone,30%,"$50,000",96%
+Area 2,"20,000",Commercial,"(34.9271, 138.6010)",6,5,15,Commercial Zone,10%,"$55,000",93%
+Area 3,"30,000",Industrial,"(34.9258, 138.5999)",4,6,20,Industrial Zone,5%,"$60,000",90%
+Area 4,"15,000",Mixed Use,"(34.9297, 138.6013)",7,4,12,Mixed-Use Zone,25%,"$45,000",94%
+Area 5,"12,000",Park,"(34.9234, 138.5993)",9,6,8,Park District,40%,"$48,000",95%
+Area 6,"11,000",Educational,"(34.9205, 138.6019)",8,7,14,School Zone,20%,"$53,000",91%
+Area 7,"18,000",Healthcare,"(34.9218, 138.6040)",5,5,10,Hospital Zone,15%,"$57,000",89%
+Area 8,"25,000",Government,"(34.9199, 138.5990)",3,7,18,Government Zone,7%,"$62,000",87%
+Area 9,"13,000",Cultural,"(34.9188, 138.6033)",7,6,11,Cultural District,22%,"$47,000",92%
+Area 10,"9,000",Recreational,"(34.9177, 138.6056)",10,8,7,Recreational Area,45%,"$49,000",98%
